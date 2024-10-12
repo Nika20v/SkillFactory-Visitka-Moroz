@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "RobotoCondensed";
+    font-style: normal;
+    font-weight: 400;
+    src: local("RobotoCondensed"),
+             url("RobotoCondensed-Thin.woff") format("woff");
+  }
